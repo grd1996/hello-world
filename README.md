@@ -1,2 +1,2 @@
 # hello-world
-learning github
+My name is Gabriel and I am learning github
